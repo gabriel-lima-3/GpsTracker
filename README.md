@@ -45,3 +45,8 @@ https://youtu.be/zN-ekgJTjpo?feature=shared
 
 ## 📍 Academic Context
 This prototype was created as part of a semester interdisciplinary project involving multiple university courses, with the objective of developing solutions for real urban issues in Belém.
+Developed in May 2025 as part of an interdisciplinary university semester project.
+
+## 👥 Authors
+- Gabriel Lima — Computer Science, CESUPA
+- Igor Vilhena — Computer Science, CESUPA
